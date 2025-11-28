@@ -5,14 +5,14 @@ import string
 import joblib
 from sklearn.model_selection import train_test_split
 from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.linear_model import LogisticRegression
+from sklearn.naive_bayes import MultinomialNB
 from sklearn.metrics import accuracy_score
 
 # ------------------------------------------
 # CLEAN TEXT FUNCTION
 # ------------------------------------------
 def clean_text(text):
-    text = text.lower()
+    text = str(text).lower()
     text = re.sub(r"http\S+", "", text)
     text = text.translate(str.maketrans('', '', string.punctuation))
     text = re.sub(r'\d+', '', text)
@@ -21,23 +21,30 @@ def clean_text(text):
 # ------------------------------------------
 # LOAD DATA
 # ------------------------------------------
-df = pd.read_csv("Tweets.csv")  
+df = pd.read_csv("Tweets.csv")
 
+# Clean labels and text
+df['airline_sentiment'] = df['airline_sentiment'].str.lower().str.strip()
 df['clean_text'] = df['text'].apply(clean_text)
 
 # ------------------------------------------
 # TF-IDF + MODEL
 # ------------------------------------------
-vectorizer = TfidfVectorizer(max_features=1000)
+vectorizer = TfidfVectorizer(max_features=2000, ngram_range=(1,2))
 X = vectorizer.fit_transform(df['clean_text'])
 y = df['airline_sentiment']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-model = LogisticRegression()
+
+model = MultinomialNB()
 model.fit(X_train, y_train)
 
 y_pred = model.predict(X_test)
 acc = accuracy_score(y_test, y_pred)
+
+# Save vectorizer and model (optional, for future use)
+joblib.dump(vectorizer, "tfidf_vectorizer.pkl")
+joblib.dump(model, "sentiment_model.pkl")
 
 # ------------------------------------------
 # STREAMLIT UI
@@ -67,22 +74,25 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown("<h1 class='title'>💬 Sentiment Analysis Project</h1>", unsafe_allow_html=True)
-st.write("This application analyzes user text and predicts whether the sentiment is **Positive** or **Negative**.")
+st.write("This application analyzes user text and predicts whether the sentiment is **Positive**, **Negative**, or **Neutral**.")
 
 st.info(f"🎯 Model Accuracy: {acc*100:.2f}%")
 
 user_input = st.text_area("✍️ Enter your sentence here:")
 
 if st.button("Analyze Sentiment"):
-    clean_input = clean_text(user_input)
-    vectorized = vectorizer.transform([clean_input])
-    prediction = model.predict(vectorized)[0]
-
-    if prediction == "positive":
-        st.success("✅ Positive Sentiment Detected! 😊")
-    elif prediction == "neutral":
-        st.info("😐 Neutral Sentiment Detected.")    
+    if user_input.strip() == "":
+        st.warning("⚠️ Please enter some text to analyze!")
     else:
-        st.error("❌ Negative Sentiment Detected 😞")
+        clean_input = clean_text(user_input)
+        vectorized = vectorizer.transform([clean_input])
+        prediction = model.predict(vectorized)[0]
+
+        if prediction == "positive":
+            st.success("✅ Positive Sentiment Detected! 😊")
+        elif prediction == "neutral":
+            st.info("😐 Neutral Sentiment Detected.")
+        else:
+            st.error("❌ Negative Sentiment Detected 😞")
 
 st.markdown("<p class='footer'>Developed by [Saurabh Kushwaha] | Minor Project | AI & ML</p>", unsafe_allow_html=True)

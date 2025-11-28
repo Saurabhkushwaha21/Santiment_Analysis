@@ -4,3 +4,342 @@ text,airline_sentiment
 "Great experience with staff.",positive
 "Flight delayed and no update!",negative
 "Very comfortable journey.",positive
+I absolutely loved the flight! Great service and friendly staff.",positive
+"The flight was delayed for hours. Very disappointed.",negative
+"Comfortable seats but food was average.",neutral
+"Amazing journey, staff was so helpful and kind.",positive
+"This airline always cancels flights at the last minute.",negative
+"Fair prices and timely departure — pretty satisfied.",positive
+"The baggage got lost and no one responded!",negative
+"Flight was empty and quiet, nice experience.",positive
+"Seats were cramped and air-conditioning didn't work.",negative
+"Good service, but the snacks were bad.",negative
+"These headphones have amazing sound quality, highly recommend!",positive
+"The phone battery drains too fast, very bad product.",negative
+"Very happy with the laptop performance, works perfectly!",positive
+"Bought these shoes online, arrived damaged. Not happy.",negative
+"Smartwatch tracks fitness accurately, very useful.",positive
+"Headphones are uncomfortable and hurt my ears.",negative
+"The laptop fan is too noisy, annoying during work.",negative
+"Phone camera quality is excellent, clear pictures.",positive
+"Smartwatch stopped working after a week.",negative
+"These shoes are super comfortable for long walks.",positive
+"Check‑in staff was polite and helpful.",positive
+"We had to wait too long for boarding.",negative
+"Smooth flight, landed earlier than schedule.",positive
+"Entertainment system didn't work at all.",negative
+"Friendly crew and clean cabin — enjoyed it.",positive
+"Delayed takeoff ruined my day.",negative
+"Average experience — nothing special.",neutral
+"Great flight overall, will travel again.",positive
+"The toilets were dirty, very bad hygiene.",negative
+"Captain was courteous, good journey.",positive
+"The flight was noisy and uncomfortable.",negative
+"Staff helped me with my luggage — very thankful.",positive
+"Food was cold and taste was horrible.",negative
+"Window seat, nice view, good flight.",positive
+"Lost my connecting flight due to delay, very upset.",negative
+"Boarding was smooth, no hassle — good job.",positive
+"Service was okay, but seats were too tight.",negative
+"Friendly staff but flight was delayed.",negative
+"Nice quick flight, no turbulence, calm ride.",positive
+"WiFi didn’t work the whole time — frustrating.",negative
+"Pleasant flight, good staff behavior.",positive
+"Flight canceled without notice — awful.",negative
+"Good food and comfortable journey.",positive
+"Plane was old and dirty, horrible experience.",negative
+"Quick check‑in, smooth takeoff.",positive
+"Entertainment options were boring.",negative
+"Flight was on time and crew was good.",positive
+"Flight attendants were rude and unhelpful.",negative
+"Lovely service and clean interior.",positive
+"Lost my luggage and no proper help!",negative
+"Seats were fine but snacks were bad.",negative
+"Beautiful sunset from window seat, good flight.",positive
+"Very disappointed with the boarding process.",negative
+"Friendly staff, nice flight!",positive
+"Flight was extremely delayed — ruined plan.",negative
+"Smooth landing and helpful staff.",positive
+"Flight was delayed, no apology — disappointed.",negative
+"Air conditioning broken during flight, so hot.",negative
+"Great baggage handling service.",positive
+"Flight was comfortable and on time.",positive
+"The cabin was noisy and kids were crying non-stop.",negative
+"Staff helped when I fell sick — very grateful.",positive
+"Bad experience with seat spacing.",negative
+"Amazing food and great service.",positive
+"Never flying with this airline again.",negative
+"Seats very narrow — painful journey.",negative
+"Good flight overall, safe landing.",positive
+"Delayed boarding, wasted time.",negative
+"Helpful crew, smooth check‑in.",positive
+"Food quality was terrible.",negative
+"Flight was punctual — nice experience.",positive
+"Flight was overcrowded and uncomfortable.",negative
+"Very smooth flight, no complaints.",positive
+"Worst customer service ever.",negative
+"Checked in luggage lost — very upset.",negative
+"Nice cabin, good crew.",positive
+"Flight was okay, but not impressive.",neutral
+"Airline staff were friendly and helpful.",positive
+"Flight delayed multiple times, frustrating.",negative
+"Crew was courteous and flight comfortable.",positive
+"Baggage lost and no update — awful service.",negative
+"Reasonable price for good service.",positive
+"Flight food tasted awful.",negative
+"Seats were comfortable and clean.",positive
+"Flight was very hot inside cabin.",negative
+"Great check‑in process and fast boarding.",positive
+"Flight canceled last minute — ruined plan.",negative
+"Drinks were fine but food was terrible.",negative
+"On‑time departure, smooth experience.",positive
+"Flight was delayed, no information given.",negative
+"Very nice crew and timely flight.",positive
+"Flight seats were broken — terrible.",negative
+"Good overall travel experience.",positive
+"Cabin crew was rude and unhelpful.",negative
+"Food was tasty and service fast.",positive
+"Flight lost one of my bags — very bad.",negative
+"Flight was delayed — missed my meeting.",negative
+"Comfortable seats and friendly staff.",positive
+"The seats were dirty and floor was messy.",negative
+"Service was quick and check‑in smooth.",positive
+"Seat belt issue mid‑air — scary experience.",negative
+"Flight was delayed for hours with no update.",negative
+"Great atmosphere and good service.",positive
+"Plane was cramped and fumes smell bad.",negative
+"Food served was delicious.",positive
+"Flight was late but staff was polite.",positive
+"Seats were uncomfortable, never again.",negative
+"Fast baggage claim, smooth pickup.",positive
+"Overbooked flight, I stood for hours.",negative
+"Lovely flight, nice cabin crew.",positive
+"Entertainment system broken — so boring.",negative
+"Timely takeoff and landing — good experience.",positive
+"Flight had turbulence, made me sick.",negative
+"Nice meal and good seats.",positive
+"Flight service ruined due to delay.",negative
+"Great flight, clean interior.",positive
+"Seat was broken, worst travel ever.",negative
+"Helpful staff, quick boarding.",positive
+"Baggage lost again — very upset.",negative
+"These headphones have amazing sound quality, highly recommend!",positive
+"The phone battery drains too fast, very bad product.",negative
+"Very happy with the laptop performance, works perfectly!",positive
+"Bought these shoes online, arrived damaged. Not happy.",negative
+"Smartwatch tracks fitness accurately, very useful.",positive
+"Headphones are uncomfortable and hurt my ears.",negative
+"Phone camera quality is excellent, clear pictures.",positive
+"Smartwatch stopped working after a week.",negative
+"These shoes are super comfortable for long walks.",positive
+"Laptop screen flickers sometimes, annoying.",negative
+"Mobile phone is fast and responsive, very happy!",positive
+"Headphones broke after 2 weeks, poor quality.",negative
+"These shoes look amazing and fit perfectly!",positive
+"Smartwatch battery lasts long, satisfied.",positive
+"Phone overheats quickly, very disappointed.",negative
+"Laptop keyboard keys stuck sometimes.",negative
+"Headphones sound is clear but too loud.",positive
+"Smartwatch doesn't sync with phone properly.",negative
+"Mobile phone case broke within days.",negative
+"Laptop is lightweight and perfect for travel.",positive
+"Comfortable running shoes, worth the price.",positive
+"Headphones are cheaply made, very bad.",negative
+"Smartwatch tracks sleep accurately, very helpful.",positive
+"Mobile phone screen cracked easily.",negative
+"Great performance laptop at this price!",positive
+"Shoes sole tore after first use — terrible.",negative
+"Headphones fit well, very comfortable.",positive
+"Smartwatch notifications are delayed, annoying.",negative
+"This chair is extremely comfortable and sturdy.",positive
+"The table legs broke after a week, very disappointed.",negative
+"Sofa quality is excellent, feels durable.",positive
+"Bought a cabinet, and the hinges are already loose.",negative
+"The dining set is beautiful and well-crafted.",positive
+"Desk surface scratched easily, poor quality.",negative
+"Bed frame is strong and stable, very happy.",positive
+"The bookshelf arrived with broken shelves.",negative
+"Armchair is cozy and supports my back well.",positive
+"The stool wobbles a lot, not safe.",negative
+"Couch fabric feels premium and lasts long.",positive
+"Drawer handle fell off on first use.",negative
+"Office chair is ergonomic and comfortable.",positive
+"The wardrobe doors are misaligned.",negative
+"The recliner works smoothly, very satisfied.",positive
+"Coffee table got chipped during first week.",negative
+"The mattress is firm and comfortable to sleep.",positive
+"The nightstand came with scratches everywhere.",negative
+"TV stand looks elegant and sturdy.",positive
+"The dining chair is uneven and unstable.",negative
+"Bookcase is spacious and solid.",positive
+"Bedside table top cracked easily.",negative
+"Futon is surprisingly durable and comfortable.",positive
+"Cabinet drawers are hard to open, poor design.",negative
+"The rocking chair is smooth and well-made.",positive
+"Chair fabric tore within days, very poor quality.",negative
+"The dresser is stylish and functional.",positive
+"Table corners chipped easily, disappointed.",negative
+"The sofa bed is easy to fold and sturdy.",positive
+"The office desk wobbles badly.",negative
+"Outdoor chair is strong and weather-resistant.",positive
+"Patio table legs bent after first rain.",negative
+"The bean bag is comfortable and durable.",positive
+"The cabinet shelves collapsed under weight.",negative
+"The lounge chair cushions are soft and supportive.",positive
+"The drawer rails are misaligned.",negative
+"Coffee table design is elegant and solid.",positive
+"The bedside lamp table is flimsy.",negative
+"TV console holds heavy equipment well.",positive
+"The dining bench cracked after first use.",negative
+"The recliner feels premium and durable.",positive
+"Office chair base is weak and unstable.",negative
+"Bookshelf stands strong, no wobbling.",positive
+"The wardrobe surface got scratched easily.",negative
+"The bed slats are solid and well-built.",positive
+"The nightstand screws were loose on arrival.",negative
+"Outdoor sofa cushions are comfortable and long-lasting.",positive
+"Patio chair paint peeled off quickly.",negative
+"The coffee table finish is smooth and looks great.",positive
+"The dining table edges chipped easily.",negative
+"The recliner padding is thick and comfy.",positive
+"The side table legs are wobbly.",negative
+"The drawer slides smoothly, very satisfied.",positive
+"The cabinet frame is weak, broke fast.",negative
+"The rocking chair is stable and well-built.",positive
+"Chair legs are uneven, very disappointed.",negative
+"The lounge sofa is soft but sturdy.",positive
+"The desk surface peeled off.",negative
+"The mattress is firm and supportive.",positive
+"The bed frame screws loosened after a month.",negative
+"The outdoor bench feels solid and durable.",positive
+"The patio furniture color faded quickly.",negative
+"The bean bag stitching is strong.",positive
+"Futon cover tore after first wash.",negative
+"The dresser is functional and stylish.",positive
+"The wardrobe doors squeak and misalign.",negative
+"The coffee table is heavy and sturdy.",positive
+"The nightstand top cracked under weight.",negative
+"The recliner mechanism works smoothly.",positive
+"The lounge chair cushion flattened quickly.",negative
+"Bookshelf can hold many heavy books.",positive
+"The dining chair fabric tore easily.",negative
+"The sofa is spacious and comfortable.",positive
+"The bean bag foam flattened too fast.",negative
+"The TV console is strong and reliable.",positive
+"The office desk drawers jam easily.",negative
+"Patio table is weather-resistant and durable.",positive
+"The outdoor chair legs bent under weight.",negative
+"The bed frame is solid and stable.",positive
+"The nightstand paint chipped.",negative
+"The recliner padding feels premium.",positive
+"Chair seat cracked within days.",negative
+"The lounge sofa is soft and supportive.",positive
+"The cabinet drawers stuck badly.",negative
+"The dresser top is sturdy and smooth.",positive
+"The bookshelf was damaged during delivery.",negative
+"Outdoor bench feels very stable.",positive
+"The patio furniture cushions tore easily.",negative
+"The coffee table is elegant and solid.",positive
+"The side table wobbles a lot.",negative
+"The mattress is very comfortable and firm.",positive
+"The bed slats creaked after first night.",negative
+"The rocking chair is smooth and durable.",positive
+"The lounge chair fabric faded quickly.",negative
+"The futon frame is solid and supportive.",positive
+"The cabinet door fell off.",negative
+"The recliner is comfortable for long sitting.",positive
+"The sofa legs are weak, very disappointed.",negative
+"The movie was absolutely fantastic, loved it!",positive
+"Terrible film, I left the theater early.",negative
+"Amazing storyline, kept me hooked till the end.",positive
+"Actors were miscast, very disappointing.",negative
+"Best movie of the year, highly recommend.",positive
+"Script was weak and dialogues were cheesy.",negative
+"Visual effects were stunning, loved every scene.",positive
+"The film lacked depth and character development.",negative
+"Brilliant performance by the lead actress.",positive
+"Movie was slow and boring, wasted my time.",negative
+"Great soundtrack and cinematography.",positive
+"Predictable plot, nothing new.",negative
+"Comedy scenes were hilarious, really enjoyed.",positive
+"Poor editing ruined the movie.",negative
+"Emotional scenes hit me hard, very touching.",positive
+"Terrible pacing, movie dragged unnecessarily.",negative
+"Fantastic action sequences and choreography.",positive
+"Storyline was confusing and badly executed.",negative
+"Actor delivered an award-worthy performance.",positive
+"Movie was full of clichés and boring scenes.",negative
+"Best movie direction I've seen in years.",positive
+"Screenplay was disjointed and uninteresting.",negative
+"Soundtrack complements the movie perfectly.",positive
+"Characters were flat and unrelatable.",negative
+"Thrilling from start to finish, amazing plot.",positive
+"Too many plot holes, didn't enjoy it.",negative
+"Movie left me in awe, stunning visuals.",positive
+"Dialogues were cringy and overacted.",negative
+"Lead actor's performance was captivating.",positive
+"Movie failed to live up to the trailer.",negative
+"Outstanding cinematography and setting.",positive
+"Story lacked originality, very predictable.",negative
+"Excellent comedy, laughed throughout.",positive
+"Poorly written and badly acted.",negative
+"Movie has a strong message, very inspiring.",positive
+"Terrible movie, I regret watching it.",negative
+"Great film for the whole family.",positive
+"Movie was too slow, fell asleep.",negative
+"Plot twists were brilliant, kept me guessing.",positive
+"Characters were annoying and poorly developed.",negative
+"Action-packed and thrilling movie.",positive
+"Movie felt rushed and unfinished.",negative
+"Emotional and heartwarming story.",positive
+"Direction was amateurish and disappointing.",negative
+"Best special effects I have seen in years.",positive
+"Screenplay was boring and predictable.",negative
+"Lead actress gave an unforgettable performance.",positive
+"Movie dragged on, couldn't wait to finish.",negative
+"Amazing storytelling and dialogue.",positive
+"Terrible execution of a good concept.",negative
+"Highly entertaining, worth every penny.",positive
+"Poor casting ruined the movie.",negative
+"Fantastic movie, I want to watch again.",positive
+"Movie failed to impress at all.",negative
+"Strong performances, loved it!",positive
+"Movie was a mess, didn't understand anything.",negative
+"Emotional journey, really touching.",positive
+"Too many loose ends, confusing plot.",negative
+"Great movie with unforgettable characters.",positive
+"Terrible movie, acting was subpar.",negative
+"Beautifully shot and well-directed.",positive
+"Storyline was weak and uninteresting.",negative
+"Very funny, laughed a lot.",positive
+"Comedy fell flat, didn't enjoy it.",negative
+"Excellent movie, highly recommend to friends.",positive
+"Movie lacked creativity and depth.",negative
+"Great performance by supporting cast.",positive
+"Terrible movie experience, wasted time.",negative
+"Movie kept me at the edge of my seat.",positive
+"Story was incoherent and messy.",negative
+"Perfect mix of drama and comedy.",positive
+"Movie was dull, nothing exciting.",negative
+"Great soundtrack and musical score.",positive
+"Dialogues were awkward and cringy.",negative
+"Fantastic film, loved every minute.",positive
+"Movie was boring, couldn't finish it.",negative
+"Amazing direction, very immersive.",positive
+"Predictable and cliché story.",negative
+"Heartfelt and inspiring movie.",positive
+"Poorly executed action scenes.",negative
+"Really enjoyed the movie, great experience.",positive
+"Movie was disappointing, expected better.",negative
+"Outstanding visual effects and CGI.",positive
+"Movie failed to deliver, very bland.",negative
+"Emotional and engaging story.",positive
+"Characters were poorly written.",negative
+"Best acting I've seen in a long time.",positive
+"Movie lacked energy and excitement.",negative
+"Highly recommend, amazing film.",positive
+"Didn't enjoy it, story was confusing.",negative
+"Brilliant movie, well-directed.",positive
+"Film was slow and boring.",negative
+"Great plot, well-executed.",positive
+"Terrible movie, wasted two hours.",negative
