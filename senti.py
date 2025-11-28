@@ -21,7 +21,7 @@ def clean_text(text):
 # ------------------------------------------
 # LOAD DATA
 # ------------------------------------------
-df = pd.read_csv(r"C:\Users\kushw\Downloads\archive\Tweets.csv")
+df = pd.read_csv("Tweets.csv")  
 
 df['clean_text'] = df['text'].apply(clean_text)
 
