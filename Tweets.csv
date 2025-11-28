@@ -1,0 +1,6 @@
+text,airline_sentiment
+"I love the flight!",positive
+"The service was terrible.",negative
+"Great experience with staff.",positive
+"Flight delayed and no update!",negative
+"Very comfortable journey.",positive
