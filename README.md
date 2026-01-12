@@ -68,4 +68,9 @@ The application demonstrates how machine learning and deep learning models can b
 
 ---
 
-## 📂 Project Structure
+### 1️⃣ Clone the Repository
+
+
+📧 Email: your.email@example.com
+
+🔗 LinkedIn: https://linkedin.com/in/yourprofile
