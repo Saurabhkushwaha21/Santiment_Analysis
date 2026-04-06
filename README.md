@@ -71,6 +71,6 @@ The application demonstrates how machine learning and deep learning models can b
 ### 1️⃣ Clone the Repository
 
 
-📧 Email: your.email@example.com
+📧 Email: kushwahasaurabh639@gmail.com
 
-🔗 LinkedIn: https://linkedin.com/in/yourprofile
+🔗 LinkedIn:https://www.linkedin.com/in/saurabh-kushwaha-8b7a56293
